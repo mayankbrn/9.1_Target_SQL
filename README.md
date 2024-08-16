@@ -2,6 +2,8 @@
 
 🚀 Welcome to the Target Data Analysis project! 🎉
 
+![Target](https://upload.wikimedia.org/wikipedia/commons/c/c7/Target_%282018%29.svg)
+
 ## About the project
 As a data scientist at Target, you've been given the exciting opportunity to analyze 100k orders from 2016 to 2018 made at Target in Brazil. 🌎🇧🇷
 
